@@ -1,2 +1,2 @@
-# Rock-Paper-Jenah
+# Rock-Paper-Scissors
 Rock Paper Scissors game with some twists
