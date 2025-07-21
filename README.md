@@ -46,7 +46,6 @@ A randomized number guessing game with persistent statistics and a replay loop.
 
 Launch the program from terminal:
 
-```bash
 python arcade.py
 
 You’ll be prompted to:
