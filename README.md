@@ -10,7 +10,7 @@ This project serves as a demonstration of core Python development skills includi
 
 ## Games Overview
 
-### 🧠 Rock, Paper, Jenah (`RPS.py`)
+### Rock, Paper, Jenah (`RPS.py`)
 A multilingual, expanded version of Rock-Paper-Scissors with layered logic and user-driven outcomes.
 
 **Key Features:**
@@ -29,7 +29,7 @@ A multilingual, expanded version of Rock-Paper-Scissors with layered logic and u
 
 ---
 
-### 🔢 Guess My Number (`guess_number.py`)
+### Guess My Number (`guess_number.py`)
 A randomized number guessing game with persistent statistics and a replay loop.
 
 **Key Features:**
@@ -52,33 +52,24 @@ Launch the program from terminal:
 
 ```bash
 python arcade.py
-```
 
 You’ll be prompted to:
 - Choose a game
 - Enter player name
 - Select a language (English or Spanish for Rock, Paper, Jenah)
 
----
-
 ## File Structure
 
-```
 arcade/
 ├── arcade.py            # Entry script and menu logic
 ├── RPS.py               # Rock, Paper, Jenah implementation
 ├── guess_number.py      # Guessing game logic
 └── README.md            # Project documentation
-```
-
----
 
 ## Requirements
 
 - Python 3.7+
 - No external libraries required
-
----
 
 ## Author
 
