@@ -6,8 +6,6 @@ A modular Python project featuring two interactive command-line games:
 
 This project serves as a demonstration of core Python development skills including class-based design, control flow, localization support, stat tracking, and modular architecture.
 
----
-
 ## Games Overview
 
 ### Rock, Paper, Jenah (`RPS.py`)
@@ -43,8 +41,6 @@ A randomized number guessing game with persistent statistics and a replay loop.
 - Floating-point arithmetic for dynamic percentages
 - Recursion for input validation and replay
 - `sys.exit()` for controlled termination outside the loop
-
----
 
 ## Execution
 
