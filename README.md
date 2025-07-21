@@ -56,9 +56,9 @@ You’ll be prompted to:
 ## File Structure
 
 arcade:
-- arcade.py            # Entry script and menu logic
--  RPS.py               # Rock, Paper, Jenah implementation
-- uess_number.py      # Guessing game logic
+- arcade.py: Entry script and menu logic
+-  RPS.py: Rock, Paper, Jenah implementation
+- uess_number.py: Guessing game logic
 
 ## Requirements
 
